@@ -2,7 +2,7 @@
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local 0122 APIs "
+  message: "Welcome to EazyBank accounts related local 01222 APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
