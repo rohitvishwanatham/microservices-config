@@ -1,8 +1,8 @@
-build:
+0build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local 12 APIs "
+  message: "Welcome to EazyBank accounts related local 012 APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
