@@ -1,4 +1,4 @@
-0build:
+build:
   version: "1.0"
 
 accounts:
